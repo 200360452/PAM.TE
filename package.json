@@ -1,0 +1,14 @@
+{
+  "name": "travailequipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PAM_TE_Valerie.js",
+  "scripts": {
+    "start": "nodemon PAM_TE_Valerie.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
